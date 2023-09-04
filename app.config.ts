@@ -1,7 +1,8 @@
 export default defineAppConfig({
   docus: {
     title: 'Kod.mobi',
-    description: 'Documentation Kod.Mobi',
+    image: '',
+    description: 'Kod.Mobi Client API',
     aside: {
       level: 0,
       collapsed: true,
