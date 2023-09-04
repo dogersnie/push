@@ -1,0 +1,11 @@
+/* Стили для класса highlighted-code__language-label */
+.highlighted-code__language-label {
+    background-color: rgb(43, 43, 43);
+    color: rgb(166, 166, 166);
+    padding: 8px 12px;
+    border-radius: 4px;
+    font-size: 12px;
+    line-height: 20px;
+    font-weight: 600;
+  }
+  
